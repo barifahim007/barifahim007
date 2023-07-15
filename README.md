@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barifahim007" alt="barifahim007" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.cartoonbrew.com/wp-content/uploads/2023/05/pavel_1.gif" alt="cartoon" /></a> </p>
+
 - 🌱 I’m currently learning **full stack production level web dev.**
 
 - 💬 Ask me about **HTML5, react, typescript,node,css,**
